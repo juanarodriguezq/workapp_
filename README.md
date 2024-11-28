@@ -4,30 +4,32 @@ Manual de uso de WorkApp 📱
 
 ¿Qué es WorkApp?
 
-WorkApp es un chatbot de Telegram especialmente diseñado para acompañarte en tu búsqueda laboral. Esta herramienta cuenta con dos funcionalidades principales que van a mejorar tu experiencia en la búsqueda de empleo: una búsqueda de empleos personalizada y la interacción con Workie, un asistente virtual que te va a guiar en todos los aspectos relacionados con el mundo laboral.
+WorkApp es un chatbot de Telegram especialmente diseñado para acompañarte en tu búsqueda laboral. Esta herramienta cuenta con dos funcionalidades principales que van a mejorar tu experiencia: una búsqueda de empleos personalizada y la interacción con Workie, un asistente virtual que te va a guiar en todos los aspectos relacionados con el mundo laboral.
 
 ¿Cómo utilizar WorkApp? 
 
 Para empezar la interacción, tenés dos opciones sencillas:
 
-- Mandar el comando /start en el chat
-- O simplemente apretar los botones que aparecen en la interfaz
+- Mandar el comando "/start" en el chat
+- Presionar los botones que aparecen en la interfaz
 
 
 Luego:
 
-1. Personalizá tu búsqueda eligiendo la localidad donde querés trabajar
+1. Personalizá tu búsqueda eligiendo la localidad desde la qué querés trabajar
 2. Definí tu camino profesional eligiendo el área de trabajo que más te apasiona
-3. Una vez que seleccionaste tu búsqueda, te mostrará cinco vacantes de empleos
+3. Una vez que seleccionaste los paramétros de tu búsqueda, WorkApp te mostrará cinco vacantes de empleos disponibles y actualizadas 
 
 ¡Importante!
-- Cuando el bot te consulte "¿Qué quieres hacer ahora?" si no visualizás automáticamente la botonera, debes presionar el ícono que se encuentra al lado de la función de ingresar sticker en telegram.
+- Cuando el bot te consulte "¿Qué quieres hacer ahora?" si no visualizás automáticamente la botonera, es necesario presionar el ícono que se encuentra al lado de la función de ingresar sticker en telegram.
+- <img width="287" alt="Captura de pantalla 2024-11-28 a las 3 45 09 p  m" src="https://github.com/user-attachments/assets/12f974c9-459f-4971-98d5-11c92dec135c">
+
 
 Funcionalidades principales
 
 Búsqueda de empleos 🔍
 
-- Explorá ofertas laborales específicas filtradas por tu localidad y área de interés
+- Explorá ofertas laborales filtradas por tu localidad y área de interés
 - Descubrí más oportunidades laborales dentro de tu categoría seleccionada
 - Adaptá tu búsqueda con diferentes criterios según tus necesidades
 
