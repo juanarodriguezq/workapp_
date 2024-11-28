@@ -30,7 +30,7 @@ API_URL = "https://remotive.com/api/remote-jobs"
 
 import requests
 
-# Diccionario de áreas de trabajo y localidades disponibles para los botones
+# Listas de áreas de trabajo y localidades disponibles para los botones
 AREAS_DE_TRABAJO = [
     'Diseño', 'Ventas', 'Producto', 'Atención al cliente', 'Marketing'
 ]
