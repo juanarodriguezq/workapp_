@@ -4,20 +4,24 @@ Manual de uso de WorkApp 📱
 
 ¿Qué es WorkApp?
 
-WorkApp es un chatbot de Telegram innovador y fácil de usar, especialmente diseñado para acompañarte en tu búsqueda laboral. Esta herramienta integral cuenta con dos funcionalidades principales que van a revolucionar tu experiencia: una potente búsqueda de empleos personalizada y la interacción con Workie, un asistente virtual especializado que te va a guiar en todos los aspectos relacionados con el mundo laboral.
+WorkApp es un chatbot de Telegram especialmente diseñado para acompañarte en tu búsqueda laboral. Esta herramienta cuenta con dos funcionalidades principales que van a mejorar tu experiencia en la búsqueda de empleo: una búsqueda de empleos personalizada y la interacción con Workie, un asistente virtual que te va a guiar en todos los aspectos relacionados con el mundo laboral.
 
-Comenzando con WorkApp
+¿Cómo utilizar WorkApp? 
 
-Para interactuar con WorkApp, tenés dos opciones sencillas:
+Para empezar la interacción, tenés dos opciones sencillas:
 
-- Mandá el comando /start en el chat
-- O simplemente apretá los botones que aparecen en la interfaz
-- Cuando el bot te consulte "¿Qué quieres hacer ahora?" sino visualizás automáticamente la botonera, debes presionar el ícono que se encuentra al lado de la función de ingresar sticker en telegram.
+- Mandar el comando /start en el chat
+- O simplemente apretar los botones que aparecen en la interfaz
+
 
 Luego:
 
 1. Personalizá tu búsqueda eligiendo la localidad donde querés trabajar
 2. Definí tu camino profesional eligiendo el área de trabajo que más te apasiona
+3. Una vez que seleccionaste tu búsqueda, te mostrará cinco vacantes de empleos
+
+¡Importante!
+- Cuando el bot te consulte "¿Qué quieres hacer ahora?" si no visualizás automáticamente la botonera, debes presionar el ícono que se encuentra al lado de la función de ingresar sticker en telegram.
 
 Funcionalidades principales
 
@@ -53,4 +57,4 @@ Consejos de uso
 - Organizá tu búsqueda guardando las ofertas más relevantes para un seguimiento posterior
 - Maximizá tu desarrollo profesional aprovechando los valiosos consejos de Workie
 
-¡Dale el primer paso hacia tu futuro profesional y empezá tu búsqueda laboral hoy mismo con WorkApp! 💪 Tu próxima gran oportunidad te espera.
+¡Dale el primer paso hacia tu futuro profesional y empezá tu búsqueda laboral hoy mismo con WorkApp! 💪 
